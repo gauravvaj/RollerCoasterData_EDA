@@ -1,1 +1,2 @@
 # RollerCoasterData_EDA
+This repository includes Exploratory Data Analysis of Roller Coaster Dataset. This Dataset has information about roller coasters present in North America. The ipynb file of this analysis project is created using Kaggle notebook(Jupyter Notebook based online notebook). This EDA project involves the use of Python libraries like Pandas , NumPy , Matplotlib , Seaborn. This EDA project involves step wise methodology to perform required Exploratory Data Analysis and unravels some basic important problems. 
